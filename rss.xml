@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[elangelangelang]]></title>
+        <description><![CDATA[elangelangelang]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Jan 2016 05:22:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I'm a pipe-smoking enthusiast]]></title>
+            <description><![CDATA[<article><h1>I'm a pipe-smoking enthusiast</h1><p>My first experience was an estate Vauen briar with some Captain Black Regular tobacco. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/593162a32ec3c1adcefdd956cdab5fc9ce21cc32.png"></article>]]></description>
+            <link>undefinedim-a-pipe-smoking-enthusiast/index.html</link>
+            <guid isPermaLink="false">07727e38-e6bc-4638-abe5-f1e5d5773b44</guid>
+            <pubDate>Thu, 07 Jan 2016 05:22:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
