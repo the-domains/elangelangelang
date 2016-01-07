@@ -1,6 +1,6 @@
 name: elangelangelang
 favicon: null
-layout_spectrum: 0.263
+layout_spectrum: 0.08574
 typography_spectrum: 0.55401
 title: Elang by Design
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
+    - '#ffffff'
     - '#000000'
-    - '#eeeced'
-    - '#00c5d8'
-    - '#0087a4'
-    - '#d09b8b'
+    - '#474747'
+    - '#6b6b6b'
+    - '#8d8d8d'
   brandStrength: 0.6875
   lightness: 0.6875
   saturation: 0.875
