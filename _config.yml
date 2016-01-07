@@ -1,0 +1,28 @@
+name: elangelangelang
+favicon: null
+layout_spectrum: 0.7039131771307439
+typography_spectrum: 0.47887087543495
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.525226732250303
+  lightness: 0.5293539734557271
+  saturation: 0.8247117099817842
+  rhythmicContrast: 0.019165828358381987
+purpose: []
